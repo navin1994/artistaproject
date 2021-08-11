@@ -9,6 +9,3 @@ include("header.php");
     var x = document.getElementById("formdata");
         x.style.display = "block";</script>';
   }
-
-
-  navin
